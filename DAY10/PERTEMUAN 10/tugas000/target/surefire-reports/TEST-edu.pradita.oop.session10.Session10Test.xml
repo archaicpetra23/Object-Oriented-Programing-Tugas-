@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="edu.pradita.oop.session10.Session10Test" time="0.094" tests="46" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="26"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/test-classes:/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/classes:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.1/junit-jupiter-5.10.1.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/home/razan/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/razan/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/home/razan/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/home/razan/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
+    <property name="java.vm.vendor" value="Arch Linux"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.org/"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="26"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-26-openjdk/lib"/>
+    <property name="sun.java.command" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/surefire/surefirebooter-20260429193427414_3.jar /home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/surefire 2026-04-29T19-34-26_691-jvmRun1 surefire-20260429193427414_1tmp surefire_0-20260429193427414_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/test-classes:/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/classes:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.1/junit-jupiter-5.10.1.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/home/razan/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/razan/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/home/razan/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar:/home/razan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/home/razan/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/razan"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-03-17"/>
+    <property name="java.home" value="/usr/lib/jvm/java-26-openjdk"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000/target/surefire/surefirebooter-20260429193427414_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="26.0.2"/>
+    <property name="user.name" value="razan"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="6.18.24-1-cachyos-lts"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/razan/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="26.0.2"/>
+    <property name="user.dir" value="/home/razan/Documents/Object-Oriented-Programing-Tugas-/DAY10/PERTEMUAN 10/tugas000"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Arch Linux"/>
+    <property name="java.vm.version" value="26.0.2"/>
+    <property name="stdin.encoding" value="UTF-8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="70.0"/>
+  </properties>
+  <testcase name="builder_shouldSetEyeConfig" classname="edu.pradita.oop.session10.Session10Test" time="0.026"/>
+  <testcase name="registry_eachCallReturnsANewObject" classname="edu.pradita.oop.session10.Session10Test" time="0.002"/>
+  <testcase name="goblin_cloneShouldHaveBaseHp" classname="edu.pradita.oop.session10.Session10Test" time="0.002"/>
+  <testcase name="goblin_twoClonesAreIndependentOfEachOther" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_settingOneFieldDoesNotAffectOthers" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_shouldApplyNullDefaultEyeConfig" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_shouldSetUpperBody" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="dragon_twoClonesHaveIndependentSpellArrays" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_shouldSetHairStyle" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="registry_shouldThrowForUnregisteredNameEvenAfterOthersAreAdded" classname="edu.pradita.oop.session10.Session10Test" time="0.002"/>
+  <testcase name="dragon_cloneShouldHaveBaseHp" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="goblin_modifyingTemplateDoesNotAffectExistingClone" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="registry_modifyingCloneDoesNotCorruptTemplate" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="orc_cloneShouldHaveBaseAttackPower" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="registry_shouldReturnCorrectEnemyType" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="dragon_cloneShouldHaveBaseDrop" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="registry_shouldSupportMultipleEnemyTypes" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="registry_clonesAreIndependentFromEachOther" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="goblin_cloneShouldHaveBaseDefence" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldSetSkinTone" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="dragon_cloneShouldHaveBaseSpells" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="orc_cloneShouldHaveBaseDrop" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="orc_cloneShouldHaveBaseName" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="orc_modifyingCloneDoesNotAffectTemplate" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_twoBuildsAreIndependentObjects" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="dragon_modifyingTemplateSpellsDoesNotAffectClone" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="dragon_modifyingCloneSpellsDoesNotAffectTemplate" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldApplyDefaultLowerBody" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldSetMandatoryName" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_shouldApplyAllFieldsTogether" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="eyeConfig_toStringShouldContainBothFields" classname="edu.pradita.oop.session10.Session10Test" time="0.002"/>
+  <testcase name="goblin_cloneShouldHaveBaseAttackPower" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="builder_shouldApplyDefaultSkinTone" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="orc_cloneShouldHaveBaseDefence" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldApplyDefaultUpperBody" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldApplyDefaultHairStyle" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="orc_cloneShouldHaveBaseHp" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="eyeConfig_shouldStoreColor" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="eyeConfig_shouldStoreShape" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="goblin_cloneShouldHaveBaseDrop" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="goblin_cloneShouldHaveBaseName" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="goblin_cloneIsNotSameObjectAsTemplate" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="orc_twoClonesAreIndependent" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="registry_shouldThrowForUnknownEnemy" classname="edu.pradita.oop.session10.Session10Test" time="0.001"/>
+  <testcase name="goblin_modifyingCloneDoesNotAffectTemplate" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+  <testcase name="builder_shouldSetLowerBody" classname="edu.pradita.oop.session10.Session10Test" time="0.0"/>
+</testsuite>
