@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.pradita.oop.session11.Session11Test
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 s -- in edu.pradita.oop.session11.Session11Test
